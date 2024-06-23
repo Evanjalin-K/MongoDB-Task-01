@@ -14,6 +14,6 @@
     10. Delete the products which product price value are 28
 
 2. In this task, find() and find() with operator query have been used.
-3. [Task] (./MongoDB%20Task%2001.pdf) has been submitted in pdf format. Click Load More to view the full PFD.
+3. [Task](./MongoDB%20Task%2001.pdf) has been submitted in pdf format. Click Load More to view the full PFD.
 
 
